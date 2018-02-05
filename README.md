@@ -12,7 +12,7 @@ You can import the project to  Intellij or use the terminal command line to edit
 
 Each team is to create a new team class using inheritance from the Team Class. 
 
-Each team member is to create a new member class using their name that has the same functionality as the given Member Class, but using your own name as the team member.
+Each team member is to create a new member class using their name by extending the Member Class. Make sure that the constructor of your new extended class sets your name as the memberName.
 
 Each team member must push to their changes to the team forked repository. 
 
