@@ -1,8 +1,8 @@
-package Project00;
+//package Project00;
 
-import java.util.*;
-import Project00.Team;
-import Project00.Member;
+//import java.util.*;
+//import Project00.Team;
+//import Project00.Member;
 
 
 public class TeamCool extends Team
